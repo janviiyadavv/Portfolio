@@ -1,9 +1,6 @@
 # firstproject
 
 A new Flutter project.
-![pic](https://user-images.githubusercontent.com/112768387/197289394-f4ec939a-5061-4aae-ab84-ca95be1aa103.PNG)
-
-![portfolio pic 1](https://user-images.githubusercontent.com/112768387/197288143-09164552-4ae6-40f2-a76d-2255d54af842.PNG)
 
 
 
@@ -19,3 +16,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+Screenshots
+
+![pic](https://user-images.githubusercontent.com/112768387/197289394-f4ec939a-5061-4aae-ab84-ca95be1aa103.PNG)
+![portfolio pic 1](https://user-images.githubusercontent.com/112768387/197288143-09164552-4ae6-40f2-a76d-2255d54af842.PNG)
+
