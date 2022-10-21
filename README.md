@@ -1,6 +1,11 @@
 # firstproject
 
 A new Flutter project.
+![pic](https://user-images.githubusercontent.com/112768387/197289394-f4ec939a-5061-4aae-ab84-ca95be1aa103.PNG)
+
+![portfolio pic 1](https://user-images.githubusercontent.com/112768387/197288143-09164552-4ae6-40f2-a76d-2255d54af842.PNG)
+
+
 
 ## Getting Started
 
